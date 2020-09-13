@@ -1,9 +1,11 @@
 # main links
 main:
-    - title: "Publications"
-      url: /publications/
+    - title: "About"
+      url: /about/
     - title: "News"
       url: /news/
+    - title: "Publications"
+      url: /publications/
     - title: "Blog"
       url: /blog/
   # - title: "Quick-Start Guide"
