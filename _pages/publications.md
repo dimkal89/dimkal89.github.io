@@ -2,8 +2,6 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
-menu: true
-order: 2
 ---
 <!-- ---
 layout: page
