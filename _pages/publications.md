@@ -19,12 +19,12 @@ accent_image:
 
 ## Talks
 [Bootstrapping incremental dialogue systems: using linguistic knowledge to learn from minimal data](https://arxiv.org/abs/1612.00347)  
-[[VIDEO]](https://icml.cc/virtual/2020/poster/6397)  
 <span style="font-size:0.8em">*Dimitris Kalatzis, Arash Eshghi, Oliver Lemon*</span>  
 <span style="font-size:0.8em">Orally presented at the *Learning methods for dialogue* workshop, NIPS 2016</span>
 
 ## Papers
 [Variational Autoencoders with Riemannian Brownian Motion Priors](http://proceedings.mlr.press/v119/kalatzis20a.html)  
+[[VIDEO]](https://icml.cc/virtual/2020/poster/6397)  
 <span style="font-size:0.8em">*Dimitrios Kalatzis, David Eklund, Georgios Arvanitidis, Soren Hauberg*</span>
 <span style="font-size:0.8em">Proceedings of the 37th International Conference on Machine Learning, PMLR 119:5053-5066, 2020.</span>
 
